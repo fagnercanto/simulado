@@ -1,0 +1,22 @@
+# Build artifacts
+bin/
+obj/
+
+# SQLite database
+*.db
+
+# VSCode and user-specific files
+.vscode/
+*.user
+*.suo
+
+# Scripts e arquivos locais
+UTIL/
+*.cmd
+*.sh
+
+# Logs e temporários
+*.log
+
+# Arquivos zipados
+*.zip

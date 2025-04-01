@@ -1,0 +1,3 @@
+@echo off
+echo Compilando projeto...
+dotnet build
