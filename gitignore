@@ -5,10 +5,15 @@ obj/
 # SQLite database
 *.db
 
-# VSCode and user-specific files
+# VSCode and Visual Studio
 .vscode/
+.vs/
 *.user
 *.suo
+
+# Test folders (opcional, se quiser ignorar testes temporários)
+SimuladoApi.Tests/bin/
+SimuladoApi.Tests/obj/
 
 # Scripts e arquivos locais
 UTIL/
